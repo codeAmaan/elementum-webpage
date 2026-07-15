@@ -4,10 +4,8 @@ import { motion } from 'framer-motion';
 import rect657 from '../assets/hero/Rectangle 657.png';
 import rect658 from '../assets/hero/Rectangle 658.png';
 import vector5 from '../assets/hero/Vector 5.png';
-
-import vector2510 from '../assets/hero/vector 2510.svg'; 
-import vector2511 from '../assets/hero/vector 2511.svg'; 
-
+import vector2510 from '../assets/hero/Vector 2510.svg';
+import vector2511 from '../assets/hero/Vector 2511.svg';
 import avatar255 from '../assets/hero/Ellipse 255.png';
 import avatar256 from '../assets/hero/Ellipse 256.png';
 import avatar257 from '../assets/hero/Ellipse 257.png';
