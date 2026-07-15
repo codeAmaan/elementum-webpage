@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700&display=swap');
+
+/* 1. Gerbil फ़ॉन्ट लोड करें */
+@font-face {
+  font-family: 'Gerbil';
+  src: url('./assets/font/New\ Gerbil.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 2. Tailwind v4 में custom utilities (primary और secondary) रजिस्टर करें */
+@theme {
+  --font-primary: "Gerbil", sans-serif;
+  --font-secondary: "Satoshi", sans-serif;
+}
