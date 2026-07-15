@@ -1,16 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Elementum Webpage
 
-Currently, two official plugins are available:
+Here is the English version of the README.md file for your React project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Elementum Webpage
+This is a React-based webpage developed based on Figma design specifications. It features a responsive navigation bar (using Lucide icons) and smooth animations for an enhanced user experience.
 
-## React Compiler
+* Tech Stack
+Framework: React
+Styling: Tailwind CSS
+Animations: Framer Motion
+Icons: Lucide React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Design System (Typography)
+This project utilizes the following font family configuration:
 
-## Expanding the ESLint configuration
+Primary Font: Gerbil
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Secondary Font: Satoshi
+>>>>>>> ae016bffeec47123f789849296acab20756858f8
