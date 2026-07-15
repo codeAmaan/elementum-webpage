@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Newsletter from "../Sections/Newsletter";
-import redArrows from "../assets/newsletter/vector 2518.png";
+import redArrows from "../assets/newsletter/Vector 2518.png";
 
 const FOOTER_SECTIONS = [
   {
